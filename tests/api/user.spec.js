@@ -101,24 +101,5 @@ test.describe('User API Tests', () => {
                 );
 
             });
-
-            // await test.step('Report API responses', async () => {
-
-            //     // test.info().attach(
-            //     //     'Create User Response',
-            //     //     {
-            //     //         body: JSON.stringify(createResponseBody, null, 2),
-            //     //         contentType: 'application/json'
-            //     //     }
-            //     // );
-
-            //     // test.info().attach(
-            //     //     'Update User Response',
-            //     //     {
-            //     //         body: JSON.stringify(updateResponseBody, null, 2),
-            //     //         contentType: 'application/json'
-            //     //     }
-            //     );
-
             });
         });
